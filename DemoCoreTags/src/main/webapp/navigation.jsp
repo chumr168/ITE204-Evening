@@ -14,6 +14,15 @@
                 <li class="nav-item"><a href="foreach.jsp">forEach</a></li>
                 <li class="nav-item"><a href="out.jsp">Out</a></li>
                 <li class="nav-item"><a href="import.jsp">import</a></li>
+                <li class="nav-item"><a href="redirect.jsp">Redirect Page</a></li>
+                <li class="nav-item"><a href="url.jsp">URL</a></li>
+                <li class="nav-item"><a href="catch.jsp">Catch Page</a></li>
+                <li class="nav-item"><a href="choose.jsp">Choose</a></li>
+                                <li class="nav-item"><a href="formatdate.jsp">formatdate</a></li>
+                
+                
+                
+                
             </ul>
 
             <!-- Right-aligned Utility CTA Actions Element -->
